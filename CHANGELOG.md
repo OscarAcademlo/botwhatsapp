@@ -1,4 +1,4 @@
-#### Actualización 14 Ene 2022
+#### Actualización 17 de diciembre 2022
 - npm update
 - remove ora and chalk
 - add env

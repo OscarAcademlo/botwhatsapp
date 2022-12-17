@@ -14,19 +14,15 @@
   ],
   "contributors": [
     {
-      "email": "leifer33@gmail.com",
-      "name": "Leifer Mendez",
-      "url": "https://leifermendez.github.io"
+      "email": "oscarns@gmail.com",
+      "name": "Oscar Nicolas Stella",
+      "url": "https://www.linkedin.com/in/oscar-nicolas-stella-0b868a49/"
     },
-    {
-      "name": "aurik3",
-      "email": "aurik3@aurik3.com",
-      "url": "https://github.com/aurik3"
-    }
+    
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/leifermendez/bot-whatsapp"
+    "url": "https://github.com/OscarAcademlo/botwhatsapp"
   },
   "license": "ISC",
   "dependencies": {

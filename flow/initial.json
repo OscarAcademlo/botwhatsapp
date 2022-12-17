@@ -20,14 +20,14 @@
     },
     {
         "keywords":  [
-            "cursos",
+            "Covid",
             "info",
-            "curso"        ],
+            "Prueba"        ],
         "key": "STEP_2"
     },
     {
         "keywords":  [
-            "angular"
+            "Covid"
         ],
         "key": "STEP_2_1"
     },
@@ -39,13 +39,13 @@
     },
     {
         "keywords":  [
-            "ngrx"
+            "covid"
         ],
         "key": "STEP_2_3"
     },
     {
         "keywords":  [
-            "aws"
+            "Mensaje personal"
         ],
         "key": "STEP_2_4"
     },
@@ -53,8 +53,8 @@
         "keywords":  [
             "asesor",
             "asesores",
-            "Vendedor",
-            "cobrador"
+            "Vendedor"
+            
         ],
         "key": "STEP_3"
     },
